@@ -1,0 +1,430 @@
+<!DOCTYPE html> 
+<html>       
+<head>
+
+
+
+
+<title>  Tabela dos afazeres nás férias   </title>
+<meta charset="UTF-8" /> 
+<link rel="stylesheet" type="text/css" href="save.css" media="screen" />
+</head>
+
+<body>  
+
+    <hr width="50%" align="left" size="5" color="red" class="subt"> 
+    <center>                                              
+        <h1 class="cor">     AFAZERES    FÉRIAS            </h1>    
+    </center>                             
+    <hr width="50%" align="left" size="5" color="red" class="subt">   
+        
+        
+
+<center>                  
+<table  border="4"   >                
+    <tr style="border: rgb(165, 36, 36);"     >  
+     
+        <th class="segunda" >    segunda        </th>   
+        <th   class="terca">     terça          </th>             
+        <th  class="quarta" >    quarta         </th>       
+        <th  class="quinta " >    quinta        </th>   
+        <th  class="sexta  " >    sexta         </th>     
+        <th  class="sábado " >    sábado        </th>   
+        <th  class="domingo" >    domingo       </th>   
+    </tr>
+    <tr>
+        <td align="center" class="segunda" >    <strong>     7:15        </strong>         </td>      
+        <td align="center">   <strong>     7:15        </strong>        </td>      
+        <td align="center">    <strong>     7:15        </strong>      </td>      
+        <td align="center">      <strong>     7:15        </strong>      </td>      
+        <td align="center">      <strong>     7:15        </strong>      </td>      
+        <td align="center">      <strong>     7:15        </strong>     </td>      
+        <td align="center">      <strong>     7:15        </strong>     </td>      
+    </tr>
+        <tr>            
+       
+        <td align="center" > <strong>  acordar e escovar os dentes        </strong>           </td>      
+        <td align="center" >   <strong>  acordar e escovar os dentes        </strong>         </td>  
+        <td align="center" >      <strong>  acordar e escovar os dentes        </strong>         </td> 
+        <td align="center" >        <strong>  acordar e escovar os dentes        </strong>     </td> 
+        <td align="center" >        <strong>  acordar e escovar os dentes        </strong>       </td> 
+        <td align="center" >        <strong>  acordar e escovar os dentes        </strong>   </td> 
+        <td align="center" >       <strong>  acordar e escovar os dentes        </strong>    </td>  
+        <tr>       
+    <td align="center">  <strong>   8:00      </strong>        </td> 
+    <td align="center">   <strong>   8:00      </strong>   </td> 
+    <td align="center">    <strong>   8:00      </strong>     </td>   
+    <td align="center">    <strong>   8:00      </strong>    </td> 
+    <td align="center">     <strong>   8:00      </strong>   </td> 
+    <td align="center">    <strong>   8:00      </strong>   </td> 
+    <td align="center">    <strong>   8:00      </strong>     </td> 
+</tr>
+   
+ <tr>     
+ <td align="center   " >  <strong>  estudar  html  e css     </strong>        </td>
+ <td align="center   " >   <strong>  estudar  html  e css     </strong>     </td>
+ <td align="center   " >     <strong>  estudar  html  e css     </strong>     </td>
+ <td align="center   " >     <strong>  estudar  html  e css     </strong>    </td>
+ <td align="center   " >     <strong>  estudar  html  e css     </strong>     </td>
+ <td align="center   " >     <strong>  estudar  html  e css     </strong>   </td>
+ <td align="center   " >    <strong>  estudar  html  e css     </strong>   </td>
+ </tr>  
+ <tr>       
+    <td align="center">  <strong>    9:30        </strong>        </td> 
+    <td align="center">   <strong>    9:30         </strong>   </td> 
+    <td align="center">    <strong>     9:30         </strong>     </td>   
+    <td align="center">    <strong>    9:30      </strong>    </td> 
+    <td align="center">     <strong>     9:30      </strong>   </td> 
+    <td align="center">    <strong>       9:30     </strong>   </td> 
+    <td align="center">    <strong>      9:30         </strong>     </td> 
+</tr>
+   
+<tr>     
+    <td align="center   " >  <strong>  estudar  linguagem C     </strong>        </td>
+    <td align="center   " >   <strong>  estudar  linguagem C      </strong>     </td>
+    <td align="center   " >     <strong>     estudar  linguagem C    </strong>     </td>
+    <td align="center   " >     <strong>  estudar  linguagem C       </strong>    </td>
+    <td align="center   " >     <strong>  aula de inglês      </strong>     </td>
+    <td align="center   " >     <strong>     estudar  linguagem C   </strong>   </td>
+    <td align="center   " >    <strong>    estudar linguagem c  </strong>   </td>
+    </tr>   
+   
+    <tr>       
+        <td align="center">  <strong>   12:30       </strong>        </td> 
+        <td align="center">   <strong>   12:30      </strong>   </td> 
+        <td align="center">    <strong>     12:30        </strong>     </td>   
+        <td align="center">    <strong>     12:30      </strong>    </td> 
+        <td align="center">     <strong>      12:30       </strong>   </td> 
+        <td align="center">    <strong>       12:30     </strong>   </td> 
+        <td align="center">    <strong>      12:30       </strong>     </td> 
+    </tr>
+      <tr> 
+        <td align="center   " >    <strong>    almoçar     </strong>   </td>
+        <td align="center   " >    <strong>    almoçar     </strong>   </td>
+        <td align="center   " >    <strong>    almoçar     </strong>   </td>
+        <td align="center   " >    <strong>    almoçar     </strong>   </td>
+        <td align="center   " >    <strong>    almoçar     </strong>   </td>
+        <td align="center   " >    <strong>    almoçar     </strong>   </td>
+        <td align="center   " >    <strong>    almoçar     </strong>   </td>
+      </tr> 
+      <tr>       
+        <td align="center">  <strong>   1:30   até 4:00      </strong>        </td> 
+        <td align="center">   <strong>     1:30   até 4:00     </strong>   </td> 
+        <td align="center">    <strong>       1:30   até 4:00      </strong>     </td>   
+        <td align="center">    <strong>       1:30   até 4:00      </strong>    </td> 
+        <td align="center">     <strong>       1:30   até 4:00     </strong>   </td> 
+        <td align="center">    <strong>        1:30   até 4:00     </strong>   </td> 
+        <td align="center">    <strong>        1:30 até 4:00    </strong>     </td> 
+    </tr>
+
+    <tr>     
+        <td align="center   " >  <strong>  estudar oque quiser    </strong>        </td>
+        <td align="center   " >   <strong>   estudar oque quiser     </strong>     </td>
+        <td align="center   " >     <strong>    estudar oque quiser   </strong>     </td>
+        <td align="center   " >     <strong>      estudar oque quiser    </strong>    </td>
+        <td align="center   " >     <strong>    estudar oque quiser    </strong>     </td>
+        <td align="center   " >     <strong>    estudar oque quiser   </strong>   </td>
+        <td align="center   " >    <strong>   estudar oque quiser   </strong>   </td>
+        </tr>   
+       <tr>
+        <td align="center">    <strong>        4:00   </strong>     </td> 
+        <td align="center">    <strong>        4:00     </strong>     </td> 
+        <td align="center">    <strong>        4:00     </strong>     </td> 
+        <td align="center">    <strong>        4:00     </strong>     </td> 
+        <td align="center">    <strong>        4:00     </strong>     </td> 
+        <td align="center">    <strong>        4:00     </strong>     </td> 
+        <td align="center">    <strong>        4:00     </strong>     </td> 
+       </tr>
+       <tr>
+        <td align="center">    <strong>        Temp.livre    </strong>     </td> 
+        <td align="center">    <strong>        Lavar louça    </strong>     </td> 
+        <td align="center">    <strong>        temp.livre    </strong>     </td> 
+        <td align="center">    <strong>        Lavar louça    </strong>     </td> 
+        <td align="center">    <strong>        temp.livre    </strong>     </td>
+        <td align="center">    <strong>        temp.livre    </strong>     </td>
+        <td align="center">    <strong>        Lavar louça    </strong>     </td> 
+    </table> 
+</center>
+    
+
+<xmp>
+Código dos "afazeres férias"
+   
+<!DOCTYPE html> 
+<html>       
+<head>
+
+
+
+
+<title>  Tabela dos afazeres nás férias   </title>
+<meta charset="UTF-8" /> 
+<link rel="stylesheet" type="text/css" href="save.css" media="screen" />
+</head>
+
+<body>  
+   
+    <hr width="50%" align="left" size="5" color="red" class="subt"> 
+    <center>                                              
+        <h1 class="cor">     AFAZERES    FÉRIAS            </h1>    
+    </center>                             
+    <hr width="50%" align="left" size="5" color="red" class="subt">   
+        
+        
+
+<center>                  
+<table  border="4"   >                
+    <tr style="border: rgb(165, 36, 36);"     >  
+     
+        <th class="segunda" >    segunda        </th>   
+        <th   class="terca">     terça          </th>             
+        <th  class="quarta" >    quarta         </th>       
+        <th  class="quinta " >    quinta        </th>   
+        <th  class="sexta  " >    sexta         </th>     
+        <th  class="sábado " >    sábado        </th>   
+        <th  class="domingo" >    domingo       </th>   
+    </tr>
+    <tr>
+        <td align="center" class="segunda" >    <strong>     7:15        </strong>         </td>      
+        <td align="center">   <strong>     7:15        </strong>        </td>      
+        <td align="center">    <strong>     7:15        </strong>      </td>      
+        <td align="center">      <strong>     7:15        </strong>      </td>      
+        <td align="center">      <strong>     7:15        </strong>      </td>      
+        <td align="center">      <strong>     7:15        </strong>     </td>      
+        <td align="center">      <strong>     7:15        </strong>     </td>      
+    </tr>
+        <tr>            
+       
+        <td align="center" > <strong>  acordar e escovar os dentes        </strong>           </td>      
+        <td align="center" >   <strong>  acordar e escovar os dentes        </strong>         </td>  
+        <td align="center" >      <strong>  acordar e escovar os dentes        </strong>         </td> 
+        <td align="center" >        <strong>  acordar e escovar os dentes        </strong>     </td> 
+        <td align="center" >        <strong>  acordar e escovar os dentes        </strong>       </td> 
+        <td align="center" >        <strong>  acordar e escovar os dentes        </strong>   </td> 
+        <td align="center" >       <strong>  acordar e escovar os dentes        </strong>    </td>  
+        <tr>       
+    <td align="center">  <strong>   8:00      </strong>        </td> 
+    <td align="center">   <strong>   8:00      </strong>   </td> 
+    <td align="center">    <strong>   8:00      </strong>     </td>   
+    <td align="center">    <strong>   8:00      </strong>    </td> 
+    <td align="center">     <strong>   8:00      </strong>   </td> 
+    <td align="center">    <strong>   8:00      </strong>   </td> 
+    <td align="center">    <strong>   8:00      </strong>     </td> 
+</tr>
+   
+ <tr>     
+ <td align="center   " >  <strong>  estudar  html  e css     </strong>        </td>
+ <td align="center   " >   <strong>  estudar  html  e css     </strong>     </td>
+ <td align="center   " >     <strong>  estudar  html  e css     </strong>     </td>
+ <td align="center   " >     <strong>  estudar  html  e css     </strong>    </td>
+ <td align="center   " >     <strong>  estudar  html  e css     </strong>     </td>
+ <td align="center   " >     <strong>  estudar  html  e css     </strong>   </td>
+ <td align="center   " >    <strong>  estudar  html  e css     </strong>   </td>
+ </tr>  
+ <tr>       
+    <td align="center">  <strong>    9:30        </strong>        </td> 
+    <td align="center">   <strong>    9:30         </strong>   </td> 
+    <td align="center">    <strong>     9:30         </strong>     </td>   
+    <td align="center">    <strong>    9:30      </strong>    </td> 
+    <td align="center">     <strong>     9:30      </strong>   </td> 
+    <td align="center">    <strong>       9:30     </strong>   </td> 
+    <td align="center">    <strong>      9:30         </strong>     </td> 
+</tr>
+   
+<tr>     
+    <td align="center   " >  <strong>  estudar  linguagem C     </strong>        </td>
+    <td align="center   " >   <strong>  estudar  linguagem C      </strong>     </td>
+    <td align="center   " >     <strong>     estudar  linguagem C    </strong>     </td>
+    <td align="center   " >     <strong>  estudar  linguagem C       </strong>    </td>
+    <td align="center   " >     <strong>  aula de inglês      </strong>     </td>
+    <td align="center   " >     <strong>     estudar  linguagem C   </strong>   </td>
+    <td align="center   " >    <strong>    estudar linguagem c  </strong>   </td>
+    </tr>   
+   
+    <tr>       
+        <td align="center">  <strong>   12:30       </strong>        </td> 
+        <td align="center">   <strong>   12:30      </strong>   </td> 
+        <td align="center">    <strong>     12:30        </strong>     </td>   
+        <td align="center">    <strong>     12:30      </strong>    </td> 
+        <td align="center">     <strong>      12:30       </strong>   </td> 
+        <td align="center">    <strong>       12:30     </strong>   </td> 
+        <td align="center">    <strong>      12:30       </strong>     </td> 
+    </tr>
+      <tr> 
+        <td align="center   " >    <strong>    almoçar     </strong>   </td>
+        <td align="center   " >    <strong>    almoçar     </strong>   </td>
+        <td align="center   " >    <strong>    almoçar     </strong>   </td>
+        <td align="center   " >    <strong>    almoçar     </strong>   </td>
+        <td align="center   " >    <strong>    almoçar     </strong>   </td>
+        <td align="center   " >    <strong>    almoçar     </strong>   </td>
+        <td align="center   " >    <strong>    almoçar     </strong>   </td>
+      </tr> 
+      <tr>       
+        <td align="center">  <strong>   1:30   até 4:00      </strong>        </td> 
+        <td align="center">   <strong>     1:30   até 4:00     </strong>   </td> 
+        <td align="center">    <strong>       1:30   até 4:00      </strong>     </td>   
+        <td align="center">    <strong>       1:30   até 4:00      </strong>    </td> 
+        <td align="center">     <strong>       1:30   até 4:00     </strong>   </td> 
+        <td align="center">    <strong>        1:30   até 4:00     </strong>   </td> 
+        <td align="center">    <strong>        1:30 até 4:00    </strong>     </td> 
+    </tr>
+
+    <tr>     
+        <td align="center   " >  <strong>  estudar oque quiser    </strong>        </td>
+        <td align="center   " >   <strong>   estudar oque quiser     </strong>     </td>
+        <td align="center   " >     <strong>    estudar oque quiser   </strong>     </td>
+        <td align="center   " >     <strong>      estudar oque quiser    </strong>    </td>
+        <td align="center   " >     <strong>    estudar oque quiser    </strong>     </td>
+        <td align="center   " >     <strong>    estudar oque quiser   </strong>   </td>
+        <td align="center   " >    <strong>   estudar oque quiser   </strong>   </td>
+        </tr>   
+       <tr>
+        <td align="center">    <strong>        4:00    </strong>     </td> 
+        <td align="center">    <strong>        4:00     </strong>     </td> 
+        <td align="center">    <strong>        4:00     </strong>     </td> 
+        <td align="center">    <strong>        4:00     </strong>     </td> 
+        <td align="center">    <strong>        4:00     </strong>     </td> 
+        <td align="center">    <strong>        4:00     </strong>     </td> 
+        <td align="center">    <strong>        4:00     </strong>     </td> 
+       </tr>
+       <tr>
+        <td align="center">    <strong>        Temp.livre    </strong>     </td> 
+        <td align="center">    <strong>        Lavar louça    </strong>     </td> 
+        <td align="center">    <strong>        temp.livre    </strong>     </td> 
+        <td align="center">    <strong>        Lavar louça    </strong>     </td> 
+        <td align="center">    <strong>        temp.livre    </strong>     </td>
+        <td align="center">    <strong>        temp.livre    </strong>     </td>
+        <td align="center">    <strong>        Lavar louça    </strong>     </td> 
+    </table> 
+
+</body>
+</html>
+
+</center>
+    
+
+
+
+</xmp>
+
+
+
+
+
+
+</body>
+</html>
+
+CSS
+hr {
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+}
+
+
+
+
+h1.cor{
+color: rgb(12, 12, 10);
+}
+
+
+
+table{
+border-color: rgb(8, 8, 8)
+;
+
+
+}
+
+
+
+
+
+
+
+
+body{
+
+
+}
+h1 {
+color: rgb(0, 0, 0);
+
+}
+th.segunda{
+background-color: aqua;
+
+
+
+
+}
+
+th.terca {
+background-color: rgb(223, 226, 43);
+
+}
+    
+
+th.quarta {
+    background-color: rgb(16, 44, 134);
+    
+    }
+
+th.quinta{
+
+    background-color: #760bf0;
+
+}
+    
+th.sexta{
+    background-color: rgb(226, 70, 43);
+
+    
+}
+    
+th.sábado{
+    background-color: rgb(43, 226, 58);
+
+    
+}
+th.sábado{
+
+    background-color: rgb(43, 226, 58);
+    
+}
+th.domingo{
+    background-color: rgb(228, 28, 78);
+
+    
+}
+    
+.grid {
+
+height: 100px;
+width: 100px;
+display: grid;
+place-items: center;
+background : #121212
+
+}
+
+.item {
+
+    background:  palegreen;
+}
+xmp
+{
+color : black;
+font-family : verdana;
+background:silver;
+font-size : 10pt;
+}
+
